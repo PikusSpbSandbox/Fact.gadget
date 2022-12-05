@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gadget>
+  <name>Fact of the day</name>
+  <namespace>Fact of the day</namespace>
+  <version>0.1</version>
+  <author name="Petr Savelev">
+    <info url="https://pikus.spb.ru" text="My home page" />
+    <logo src="logo.png" />
+  </author>
+  <copyright>© 2022</copyright>
+  <description>New interesting fact for each day</description>
+  <icons>
+    <icon height="48" width="48" src="icon.png" />
+  </icons>
+  <hosts>
+    <host name="sidebar">
+      <base type="HTML" apiVersion="1.0.0" src="gadget.html" />
+      <permissions>full</permissions>
+      <platform minPlatformVersion="1.0" />
+      <defaultImage src="drag.png" />
+      <autoscaleDPI>true</autoscaleDPI>
+    </host>
+  </hosts>
+</gadget>
