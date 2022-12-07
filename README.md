@@ -10,7 +10,7 @@ This is a source code for Windows 7 gadget "Famous quotes".
 ```
 
 ## Installation
-Download FamousQuotes.gadget from latest [release](https://github.com/PikusSpbSandbox/FamousQuotes.gadget/releases). If your system suports gadgets just doubleclick on downloaded file and install it. 
+Download `FamousQuotes.gadget` from latest [release](https://github.com/PikusSpbSandbox/FamousQuotes.gadget/releases). If your system suports gadgets just doubleclick on downloaded file and install it. 
 
 ## About Windows 7 gadgets
 Windows 7 gadgets are now officially 
