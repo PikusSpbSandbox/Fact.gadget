@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <gadget>
   <name>Famous quotes</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <author name="Petr Savelev ('pikus_spb')">
     <info url="https://pikus.spb.ru" text="My home page" />
     <logo src="logo.png" />
