@@ -9,6 +9,9 @@ This is a source code for Windows 7 gadget "Famous quotes".
                                                                                                 Albert Einstein
 ```
 
+## Demo / screenshots
+Please see a [page](https://pikus.spb.ru/code/famous-quote-gadget-demo) on my site.
+
 ## Installation
 Download `FamousQuotes.gadget` from latest [release](https://github.com/PikusSpbSandbox/FamousQuotes.gadget/releases). If your system suports gadgets just doubleclick on downloaded file and install it. 
 
